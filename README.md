@@ -1,4 +1,4 @@
-# [Loan Repayment Schedule Generator](https://emi-scheduler.com)
+# [Loan Repayment Schedule Generator](https://loan-repayment-scheduler.vercel.app/)
 
 A full-stack web application to generate loan repayment schedules dynamically. Users can input loan details such as disbursement date, principal amount, tenure, EMI frequency, interest rate, and moratorium period. The app calculates the repayment schedule and allows users to export it as a CSV or PDF file.
 
@@ -36,7 +36,7 @@ A full-stack web application to generate loan repayment schedules dynamically. U
 
 ## Live Demo
 
-Check out the live demo of the application: [Loan Scheduler Demo](https://emi-scheduler.com)
+Check out the live demo of the application: [Loan Scheduler Demo](https://loan-repayment-scheduler.vercel.app/)
 
 ## Installation
 
@@ -49,8 +49,8 @@ Check out the live demo of the application: [Loan Scheduler Demo](https://emi-sc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sudhirKsah/loan-repayment-schedule.git
-   cd loan-repayment-schedule
+   git clone https://github.com/sudhirKsah/loan-repayment-scheduler.git
+   cd loan-repayment-scheduler
    ```
 2. **Setup the Backend**:
     ```bash
